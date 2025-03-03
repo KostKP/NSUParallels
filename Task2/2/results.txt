@@ -1,0 +1,65 @@
+Integration f(x) on [-4.000000000000, 4.000000000000], nsteps = 40000000
+Threads count: 1
+Result (serial): 1.772453823579; error 0.000000027326
+Result (parallel): 1.772453823579; error 0.000000027326
+Execution time (serial): 0.268213
+Execution time (parallel): 0.269606
+Speedup: 0.99
+
+Integration f(x) on [-4.000000000000, 4.000000000000], nsteps = 40000000
+Threads count: 16
+Result (serial): 1.772453823579; error 0.000000027326
+Result (parallel): 1.772453823579; error 0.000000027326
+Execution time (serial): 0.269381
+Execution time (parallel): 0.029184
+Speedup: 9.23
+
+Integration f(x) on [-4.000000000000, 4.000000000000], nsteps = 40000000
+Threads count: 2
+Result (serial): 1.772453823579; error 0.000000027326
+Result (parallel): 1.772453823579; error 0.000000027326
+Execution time (serial): 0.274890
+Execution time (parallel): 0.152759
+Speedup: 1.80
+
+Integration f(x) on [-4.000000000000, 4.000000000000], nsteps = 40000000
+Threads count: 20
+Result (serial): 1.772453823579; error 0.000000027326
+Result (parallel): 1.772453823579; error 0.000000027326
+Execution time (serial): 0.269889
+Execution time (parallel): 0.026438
+Speedup: 10.21
+
+Integration f(x) on [-4.000000000000, 4.000000000000], nsteps = 40000000
+Threads count: 4
+Result (serial): 1.772453823579; error 0.000000027326
+Result (parallel): 1.772453823579; error 0.000000027326
+Execution time (serial): 0.269414
+Execution time (parallel): 0.082007
+Speedup: 3.29
+
+Integration f(x) on [-4.000000000000, 4.000000000000], nsteps = 40000000
+Threads count: 40
+Result (serial): 1.772453823579; error 0.000000027326
+Result (parallel): 1.772453823579; error 0.000000027326
+Execution time (serial): 0.269746
+Execution time (parallel): 0.025367
+Speedup: 10.63
+
+Integration f(x) on [-4.000000000000, 4.000000000000], nsteps = 40000000
+Threads count: 7
+Result (serial): 1.772453823579; error 0.000000027326
+Result (parallel): 1.772453823579; error 0.000000027326
+Execution time (serial): 0.265936
+Execution time (parallel): 0.052093
+Speedup: 5.11
+
+Integration f(x) on [-4.000000000000, 4.000000000000], nsteps = 40000000
+Threads count: 8
+Result (serial): 1.772453823579; error 0.000000027326
+Result (parallel): 1.772453823579; error 0.000000027326
+Execution time (serial): 0.267903
+Execution time (parallel): 0.047500
+Speedup: 5.64
+
+Finished running all files.

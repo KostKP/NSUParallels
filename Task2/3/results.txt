@@ -1,0 +1,206 @@
+SOLVED IN 1147 ITERATIONS AND 176.028 SECONDS
+
+Running Variant 1 with different number of threads:
+Solved in 1147 iterations and 176.992 seconds using 1 threads
+Solved in 1147 iterations and 90.478 seconds using 2 threads
+Solved in 1147 iterations and 60.6758 seconds using 3 threads
+Solved in 1147 iterations and 46.9151 seconds using 4 threads
+Solved in 1147 iterations and 36.7916 seconds using 5 threads
+Solved in 1147 iterations and 30.8569 seconds using 6 threads
+Solved in 1147 iterations and 28.6327 seconds using 7 threads
+Solved in 1147 iterations and 24.9807 seconds using 8 threads
+Solved in 1147 iterations and 21.2542 seconds using 9 threads
+Solved in 1147 iterations and 20.3999 seconds using 10 threads
+Solved in 1147 iterations and 18.1162 seconds using 11 threads
+Solved in 1147 iterations and 16.566 seconds using 12 threads
+Solved in 1147 iterations and 15.4576 seconds using 13 threads
+Solved in 1147 iterations and 14.9488 seconds using 14 threads
+Solved in 1147 iterations and 14.2547 seconds using 15 threads
+Solved in 1147 iterations and 13.4598 seconds using 16 threads
+Solved in 1147 iterations and 12.2348 seconds using 17 threads
+Solved in 1147 iterations and 11.4898 seconds using 18 threads
+Solved in 1147 iterations and 11.3322 seconds using 19 threads
+Solved in 1147 iterations and 10.5839 seconds using 20 threads
+Solved in 1147 iterations and 10.1918 seconds using 21 threads
+Solved in 1147 iterations and 9.84069 seconds using 22 threads
+Solved in 1147 iterations and 9.44685 seconds using 23 threads
+Solved in 1147 iterations and 9.16965 seconds using 24 threads
+Solved in 1147 iterations and 8.907 seconds using 25 threads
+Solved in 1147 iterations and 8.81394 seconds using 26 threads
+Solved in 1147 iterations and 8.40241 seconds using 27 threads
+Solved in 1147 iterations and 8.21931 seconds using 28 threads
+Solved in 1147 iterations and 8.34114 seconds using 29 threads
+Solved in 1147 iterations and 8.09799 seconds using 30 threads
+Solved in 1147 iterations and 7.92148 seconds using 31 threads
+Solved in 1147 iterations and 8.0164 seconds using 32 threads
+Solved in 1147 iterations and 7.77782 seconds using 33 threads
+Solved in 1147 iterations and 7.63991 seconds using 34 threads
+Solved in 1147 iterations and 7.02704 seconds using 35 threads
+Solved in 1147 iterations and 6.96983 seconds using 36 threads
+Solved in 1147 iterations and 6.87636 seconds using 37 threads
+Solved in 1147 iterations and 7.04198 seconds using 38 threads
+Solved in 1147 iterations and 7.63656 seconds using 39 threads
+Solved in 1147 iterations and 8.10212 seconds using 40 threads
+Solved in 1147 iterations and 8.10078 seconds using 41 threads
+Solved in 1147 iterations and 8.00908 seconds using 42 threads
+Solved in 1147 iterations and 8.03015 seconds using 43 threads
+Solved in 1147 iterations and 7.76061 seconds using 44 threads
+Solved in 1147 iterations and 7.7848 seconds using 45 threads
+Solved in 1147 iterations and 7.60892 seconds using 46 threads
+Solved in 1147 iterations and 8.0788 seconds using 47 threads
+Solved in 1147 iterations and 8.15531 seconds using 48 threads
+Solved in 1147 iterations and 8.11676 seconds using 49 threads
+Solved in 1147 iterations and 8.38962 seconds using 50 threads
+Solved in 1147 iterations and 8.29057 seconds using 51 threads
+Solved in 1147 iterations and 6.55235 seconds using 52 threads
+Solved in 1147 iterations and 6.38637 seconds using 53 threads
+Solved in 1147 iterations and 6.27677 seconds using 54 threads
+Solved in 1147 iterations and 6.10649 seconds using 55 threads
+Solved in 1147 iterations and 6.02218 seconds using 56 threads
+Solved in 1147 iterations and 6.17834 seconds using 57 threads
+Solved in 1147 iterations and 6.16973 seconds using 58 threads
+Solved in 1147 iterations and 6.028 seconds using 59 threads
+Solved in 1147 iterations and 5.80338 seconds using 60 threads
+Solved in 1147 iterations and 5.94622 seconds using 61 threads
+Solved in 1147 iterations and 5.73907 seconds using 62 threads
+Solved in 1147 iterations and 5.74398 seconds using 63 threads
+Solved in 1147 iterations and 5.98499 seconds using 64 threads
+Solved in 1147 iterations and 6.12127 seconds using 65 threads
+Solved in 1147 iterations and 6.11458 seconds using 66 threads
+Solved in 1147 iterations and 6.36609 seconds using 67 threads
+Solved in 1147 iterations and 6.13696 seconds using 68 threads
+Solved in 1147 iterations and 5.98863 seconds using 69 threads
+Solved in 1147 iterations and 6.25953 seconds using 70 threads
+Solved in 1147 iterations and 6.55945 seconds using 71 threads
+Solved in 1147 iterations and 6.5095 seconds using 72 threads
+Solved in 1147 iterations and 6.54864 seconds using 73 threads
+Solved in 1147 iterations and 6.408 seconds using 74 threads
+Solved in 1147 iterations and 6.5657 seconds using 75 threads
+Solved in 1147 iterations and 6.68815 seconds using 76 threads
+Solved in 1147 iterations and 6.94389 seconds using 77 threads
+Solved in 1147 iterations and 7.37842 seconds using 78 threads
+Solved in 1147 iterations and 10.1212 seconds using 79 threads
+Solved in 1147 iterations and 11.4047 seconds using 80 threads
+Running Variant 2 with different number of threads:
+Solved in 1147 iterations and 180.681 seconds using 1 threads
+Solved in 1147 iterations and 97.1051 seconds using 2 threads
+Solved in 1147 iterations and 60.3648 seconds using 3 threads
+Solved in 1147 iterations and 45.6895 seconds using 4 threads
+Solved in 1147 iterations and 36.9689 seconds using 5 threads
+Solved in 1147 iterations and 31.0067 seconds using 6 threads
+Solved in 1147 iterations and 28.3592 seconds using 7 threads
+Solved in 1147 iterations and 24.8641 seconds using 8 threads
+Solved in 1147 iterations and 21.9777 seconds using 9 threads
+Solved in 1147 iterations and 20.259 seconds using 10 threads
+Solved in 1147 iterations and 18.627 seconds using 11 threads
+Solved in 1147 iterations and 17.2319 seconds using 12 threads
+Solved in 1147 iterations and 15.9473 seconds using 13 threads
+Solved in 1147 iterations and 14.8024 seconds using 14 threads
+Solved in 1147 iterations and 13.9381 seconds using 15 threads
+Solved in 1147 iterations and 13.2217 seconds using 16 threads
+Solved in 1147 iterations and 12.7825 seconds using 17 threads
+Solved in 1147 iterations and 11.3983 seconds using 18 threads
+Solved in 1147 iterations and 11.3058 seconds using 19 threads
+Solved in 1147 iterations and 11.0414 seconds using 20 threads
+Solved in 1147 iterations and 11.335 seconds using 21 threads
+Solved in 1147 iterations and 11.3063 seconds using 22 threads
+Solved in 1147 iterations and 11.6793 seconds using 23 threads
+Solved in 1147 iterations and 11.4691 seconds using 24 threads
+Solved in 1147 iterations and 11.6427 seconds using 25 threads
+Solved in 1147 iterations and 11.2323 seconds using 26 threads
+Solved in 1147 iterations and 10.9732 seconds using 27 threads
+Solved in 1147 iterations and 10.4149 seconds using 28 threads
+Solved in 1147 iterations and 9.90599 seconds using 29 threads
+Solved in 1147 iterations and 9.92639 seconds using 30 threads
+Solved in 1147 iterations and 10.2914 seconds using 31 threads
+Solved in 1147 iterations and 9.72945 seconds using 32 threads
+Solved in 1147 iterations and 9.57171 seconds using 33 threads
+Solved in 1147 iterations and 9.43439 seconds using 34 threads
+Solved in 1147 iterations and 9.62895 seconds using 35 threads
+Solved in 1147 iterations and 9.21174 seconds using 36 threads
+Solved in 1147 iterations and 9.44666 seconds using 37 threads
+Solved in 1147 iterations and 9.2769 seconds using 38 threads
+Solved in 1147 iterations and 10.0133 seconds using 39 threads
+Solved in 1147 iterations and 9.99244 seconds using 40 threads
+Solved in 1147 iterations and 9.92852 seconds using 41 threads
+Solved in 1147 iterations and 10.5464 seconds using 42 threads
+Solved in 1147 iterations and 10.5443 seconds using 43 threads
+Solved in 1147 iterations and 10.5292 seconds using 44 threads
+Solved in 1147 iterations and 10.3327 seconds using 45 threads
+Solved in 1147 iterations and 10.7146 seconds using 46 threads
+Solved in 1147 iterations and 9.82437 seconds using 47 threads
+Solved in 1147 iterations and 8.14506 seconds using 48 threads
+Solved in 1147 iterations and 8.60206 seconds using 49 threads
+Solved in 1147 iterations and 8.84006 seconds using 50 threads
+Solved in 1147 iterations and 9.10433 seconds using 51 threads
+Solved in 1147 iterations and 9.9142 seconds using 52 threads
+Solved in 1147 iterations and 9.986 seconds using 53 threads
+Solved in 1147 iterations and 9.31876 seconds using 54 threads
+Solved in 1147 iterations and 8.90274 seconds using 55 threads
+Solved in 1147 iterations and 8.91851 seconds using 56 threads
+Solved in 1147 iterations and 7.97866 seconds using 57 threads
+Solved in 1147 iterations and 7.31321 seconds using 58 threads
+Solved in 1147 iterations and 6.99192 seconds using 59 threads
+Solved in 1147 iterations and 7.43033 seconds using 60 threads
+Solved in 1147 iterations and 7.57407 seconds using 61 threads
+Solved in 1147 iterations and 7.1114 seconds using 62 threads
+Solved in 1147 iterations and 7.73588 seconds using 63 threads
+Solved in 1147 iterations and 7.71092 seconds using 64 threads
+Solved in 1147 iterations and 9.0257 seconds using 65 threads
+Solved in 1147 iterations and 7.55766 seconds using 66 threads
+Solved in 1147 iterations and 7.94185 seconds using 67 threads
+Solved in 1147 iterations and 7.21465 seconds using 68 threads
+Solved in 1147 iterations and 7.57297 seconds using 69 threads
+Solved in 1147 iterations and 7.96089 seconds using 70 threads
+Solved in 1147 iterations and 8.17498 seconds using 71 threads
+Solved in 1147 iterations and 8.12158 seconds using 72 threads
+Solved in 1147 iterations and 10.0794 seconds using 73 threads
+Solved in 1147 iterations and 8.36187 seconds using 74 threads
+Solved in 1147 iterations and 8.40071 seconds using 75 threads
+Solved in 1147 iterations and 7.76276 seconds using 76 threads
+Solved in 1147 iterations and 8.1549 seconds using 77 threads
+Solved in 1147 iterations and 8.47882 seconds using 78 threads
+Solved in 1147 iterations and 11.4719 seconds using 79 threads
+Solved in 1147 iterations and 13.472 seconds using 80 threads
+
+Solved in 1147 iterations and 17.1419 seconds using 80 threads with schedule(dynamic)
+
+Solved in 1147 iterations and 19.7644 seconds using 80 threads with schedule(dynamic, 1)
+
+Solved in 1147 iterations and 16.6403 seconds using 80 threads with schedule(dynamic, 128)
+
+Solved in 1147 iterations and 15.899 seconds using 80 threads with schedule(dynamic, 16)
+
+Solved in 1147 iterations and 17.469 seconds using 80 threads with schedule(dynamic, 2)
+
+Solved in 1147 iterations and 15.6888 seconds using 80 threads with schedule(dynamic, 256)
+
+Solved in 1147 iterations and 16.0539 seconds using 80 threads with schedule(dynamic, 32)
+
+Solved in 1147 iterations and 18.5584 seconds using 80 threads with schedule(dynamic, 4)
+
+Solved in 1147 iterations and 16.9885 seconds using 80 threads with schedule(dynamic, 64)
+
+Solved in 1147 iterations and 16.1252 seconds using 80 threads with schedule(dynamic, 8)
+
+Solved in 1147 iterations and 9.38113 seconds using 80 threads with schedule(static)
+
+Solved in 1147 iterations and 10.4275 seconds using 80 threads with schedule(static, 1)
+
+Solved in 1147 iterations and 9.54937 seconds using 80 threads with schedule(static, 128)
+
+Solved in 1147 iterations and 9.74948 seconds using 80 threads with schedule(static, 16)
+
+Solved in 1147 iterations and 9.8405 seconds using 80 threads with schedule(static, 2)
+
+Solved in 1147 iterations and 12.5591 seconds using 80 threads with schedule(static, 256)
+
+Solved in 1147 iterations and 9.84373 seconds using 80 threads with schedule(static, 32)
+
+Solved in 1147 iterations and 10.1464 seconds using 80 threads with schedule(static, 4)
+
+Solved in 1147 iterations and 9.41798 seconds using 80 threads with schedule(static, 64)
+
+Solved in 1147 iterations and 8.97778 seconds using 80 threads with schedule(static, 8)
+
+Finished running all files.

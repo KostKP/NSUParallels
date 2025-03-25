@@ -1,0 +1,1 @@
+python3 task.py --camera 0 --resolution 640x480 --freq 60

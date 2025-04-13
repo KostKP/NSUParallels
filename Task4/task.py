@@ -6,7 +6,6 @@ import queue
 import cv2
 from threading import Thread, Event
 
-# Настройка логирования
 if not os.path.exists('log'):
     os.makedirs('log')
 
@@ -20,7 +19,6 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Базовый класс и датчики
 class Sensor:
     def get(self):
         raise NotImplementedError()
@@ -29,10 +27,16 @@ class SensorX(Sensor):
     def __init__(self, delay: float):
         self._delay = delay
         self._data = 0
+        self._next_time = time.time() + delay
     
     def get(self) -> int:
-        time.sleep(self._delay)
+        current_time = time.time()
+        if current_time < self._next_time:
+            sleep_time = self._next_time - current_time
+            if sleep_time > 0:
+                time.sleep(sleep_time)
         self._data += 1
+        self._next_time += self._delay
         return self._data
 
 class SensorCam(Sensor):
@@ -141,13 +145,12 @@ def main():
                 continue
             next_display += display_interval
 
-            # Обновление кадра
-            try:
-                last_frame = queues[3].get_nowait()
-            except queue.Empty:
-                pass
+            while True:
+                try:
+                    last_frame = queues[3].get_nowait()
+                except queue.Empty:
+                    break
 
-            # Обновление данных датчиков
             for i in range(3):
                 try:
                     while True:

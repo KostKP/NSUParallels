@@ -1,0 +1,25 @@
+Running TASK_128x128_G
+Matrix 128x128 processing time: 1.6180 sec. (Iterations: 1000/1000, Final norm: 0.06329410 < 0.01000000).
+Result matrix saved to file 'result.dat'.
+
+Running TASK_128x128_H
+Matrix 128x128 processing time: 442.9078 sec. (Iterations: 1000/1000, Final norm: 0.06329410 < 0.01000000).
+Result matrix saved to file 'result.dat'.
+
+Running TASK_128x128_M
+Matrix 128x128 processing time: 27.7537 sec. (Iterations: 1000/1000, Final norm: 0.06329410 < 0.01000000).
+Result matrix saved to file 'result.dat'.
+
+Running TASK_256x256_G
+Matrix 256x256 processing time: 11.0334 sec. (Iterations: 1000/1000, Final norm: 0.06329410 < 0.01000000).
+Result matrix saved to file 'result.dat'.
+
+Running TASK_256x256_H
+Matrix 256x256 processing time: 6978.5844 sec. (Iterations: 1000/1000, Final norm: 0.06329410 < 0.01000000).
+Result matrix saved to file 'result.dat'.
+
+Running TASK_256x256_M
+Matrix 256x256 processing time: 394.6631 sec. (Iterations: 1000/1000, Final norm: 0.06329410 < 0.01000000).
+Result matrix saved to file 'result.dat'.
+
+Finished running all files.

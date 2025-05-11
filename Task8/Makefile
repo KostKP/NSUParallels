@@ -1,7 +1,7 @@
 # Компилятор
-CXX = pgc++
+CXX = nvcc
 # Флаги компиляции
-CXXFLAGS = -acc -lcublas -Minfo=all -std=c++11 -Wall -O2 -I/opt/nvidia/hpc_sdk/Linux_x86_64/23.11/cuda/12.3/include -L/opt/nvidia/hpc_sdk/Linux_x86_64/23.11/math_libs/12.3/targets/x86_64-linux/lib
+CXXFLAGS = -lcudart -lcublas -lstdc++ -lcuda -O2 -I/opt/nvidia/hpc_sdk/Linux_x86_64/23.11/cuda/12.3/include -L/opt/nvidia/hpc_sdk/Linux_x86_64/23.11/math_libs/12.3/targets/x86_64-linux/lib
 
 # Директория для выходных файлов
 OUT_DIR = out
@@ -21,7 +21,7 @@ $(OUT_DIR)/TASK_%:
 	$(eval MATRIX_SIZE=$(word 1,$(subst _, ,$(subst TASK_,,$(FILENAME)))))
 	$(eval MATRIX_N=$(firstword $(subst x, ,$(MATRIX_SIZE))))
 	$(eval MATRIX_M=$(lastword $(subst x, ,$(MATRIX_SIZE))))
-	$(CXX) $(CXXFLAGS) -gpu=cc70 -DNX=$(MATRIX_N) -DNY=$(MATRIX_M) -o $@_C therm_acc2.cpp
+	$(CXX) $(CXXFLAGS) -DNX=$(MATRIX_N) -DNY=$(MATRIX_M) -o $@_C therm_acc3.cu
 
 # Создание директории для выходных файлов
 $(OUT_DIR):

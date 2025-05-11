@@ -1,0 +1,13 @@
+Running TASK_128x128_C
+Matrix 128x128 processing time: 2.1976 sec. (Iterations: 1000/1000, Final norm: 0.06326226 < 0.01000000).
+Result matrix saved to file 'result.dat'.
+
+Running TASK_256x256_C
+Matrix 256x256 processing time: 16.3204 sec. (Iterations: 1000/1000, Final norm: 0.06326226 < 0.01000000).
+Result matrix saved to file 'result.dat'.
+
+Running TASK_512x512_C
+Matrix 512x512 processing time: 248.8576 sec. (Iterations: 1000/1000, Final norm: 0.06326226 < 0.01000000).
+Result matrix saved to file 'result.dat'.
+
+Finished running all files.
